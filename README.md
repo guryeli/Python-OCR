@@ -17,3 +17,9 @@ image_path = 'gorsel.png'
 text = imageOCR(image_path)
 print(text)
 ```
+
+Get Supported Lang Codes:
+
+```python
+print(getSupportedLanguageCodes())
+```
