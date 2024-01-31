@@ -8,7 +8,6 @@ PDF OCR Example Usage
 ```python
 pdf_path = 'ornek.pdf'
 pdfOCR(pdf_path)
-</code>
 ```
 
 Image OCR Example Usage:
