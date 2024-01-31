@@ -5,15 +5,16 @@ Usage:
 
 PDF OCR Example Usage
 
-<code>
+```python
 pdf_path = 'ornek.pdf'
 pdfOCR(pdf_path)
 </code>
+```
 
 Image OCR Example Usage:
 
-<code>
+```python
 image_path = 'gorsel.png'
 text = imageOCR(image_path)
 print(text)
-</code>
+```
